@@ -1,0 +1,15 @@
+# Technology Stock Analysis Project
+
+This project analyzes the historical performance of stocks in a specific Technology sector using Jupyter Notebook.
+
+## Objective
+- Analyze historical performance of stocks in the technology sector.
+- Visualize cumulative returns and volatility of the sector.
+
+## Tools and Libraries
+- Jupyter Notebook
+- Python
+- yfinance
+- pandas
+- numpy
+- matplotlib
